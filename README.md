@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarvesh-pal
-- 👀 I’m an test engineer
+- 👀 I’m a test engineer
 - 🌱 I’m currently learning selenium
 
 <!---
